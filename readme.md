@@ -14,4 +14,4 @@ Sistema Python para registrar e analisar perdas na colheita de cana-de-açúcar.
 - JSON (armazenamento)
 
 ## Autor
-[Nicolas Paulino Avila]
+[Nicolas Paulino Avila RM64312]
